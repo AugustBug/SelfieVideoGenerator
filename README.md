@@ -8,10 +8,11 @@ folder structure:
   
 1- put selfie images into data folder  
 2- install dependencies. requirements.txt contains necessary libraries  
-3- edit parameters in videoCreate script - OPTIONAL  
+3- download face landmark model from https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat into model folder  
+4- edit parameters in videoCreate script - OPTIONAL  
 &emsp;set blenderC value. images blend for ***blenderC*** frames between images  
 &emsp;set freezerC value. images freeze for ***freezerC*** frames  
-4- run videoCreate script  
-5- selfie video will be stored in code folder, convert to other video formats for a smaller video size  
+5- run videoCreate script  
+6- selfie video will be stored in code folder, convert to other video formats for a smaller video size  
   
 * Recommendation: selfie images should contain one face
