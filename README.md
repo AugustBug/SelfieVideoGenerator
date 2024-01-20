@@ -1,10 +1,10 @@
 # SelfieVideoGenerator
 creates video from selfie images
 
-folder structure:
-&emsp;*code : scripts
-&emsp;*data : selfie images
-&emsp;*model : face landmark detection model
+folder structure:  
+&emsp;*code : scripts  
+&emsp;*data : selfie images  
+&emsp;*model : face landmark detection model  
   
 1- put selfie images into data folder  
 2- install dependencies. requirements.txt contains necessary libraries  
