@@ -1,0 +1,8 @@
+dlib
+mysql==0.0.3
+mysql-connector==2.2.9
+mysqlclient==2.1.1
+numpy==1.26.3
+opencv-python==4.9.0.80
+pillow==10.2.0
+pillow-heif==0.14.0
